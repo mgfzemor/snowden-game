@@ -1,0 +1,19 @@
+|------------------------    Instrucoes   --------------------------------|
+|			---------------------                             |
+|                      |                     |                            |
+|Voce eh Eduard Snowden , seu objetivo eh capturar documentos,pendrives   |
+|e outros dispositivos de armazenamento com dados da N.S.A para expor     |
+|o plano de espionagem em massa dos EUA para o mundo.                     |
+|                                                                         |
+|Agentes da N.S.A tentarao ataca-lo,voce dispoe de um Tazer para          |
+|incapacita-los (barra de espaco para atirar), porem tal Tazer precisa    |
+|ser recarregado a cada tiro, assim voce  so pode dar um tiro por vez.    |
+|                                                                         |
+|Existe uma sala de seguranca (representada em roxo) onde Agentes irao    |
+|aparecer periodicamente enquanto o limite do nivel nao for atingido.     |
+|                                                                         |
+|Ao explorar o nivel, voce deixara o caminho livre para que os Agentes    |
+|possam persegui-lo, entao tome cuidado!                                  |
+|                                                                         |
+|Seja rapido e preciso, a verdade deve prevalecer!                        |
+|-------------------------------------------------------------------------|
